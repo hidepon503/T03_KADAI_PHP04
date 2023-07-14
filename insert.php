@@ -29,4 +29,5 @@
         <td><input type="submit" value="登録"></td>
       </tr>
     </form>
+    
   </table>

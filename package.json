@@ -1,12 +1,17 @@
 {
-  "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.2.4"
-  },
+  "name": "t03_kadai_php04",
+  "version": "1.0.0",
+  "description": "## ①課題内容（どんな作品か） - kadai01フォルダのindex.phpを開いてください。 - 問い合わせフォームからデータベースに情報を登録できるアプリ。 - 画像の登録機能を実装ずみ。保存した写真の名前は一意になるようにしています。 - 削除・更新機能を実装",
+  "main": "index.js",
   "scripts": {
-    "dev": "tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.25",
+    "tailwindcss": "^3.3.2"
   }
 }
-
-
